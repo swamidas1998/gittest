@@ -9,7 +9,7 @@ int main()
   	while(num>0)
 	    {
 		fact=fact*num;
-		num--;
+		num;
 	    }
 	printf("%d\n",fact);
 }
